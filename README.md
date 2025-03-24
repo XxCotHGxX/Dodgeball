@@ -1,5 +1,5 @@
-# CompSci 351 / CompSt 751 Homework Assignment 3
+# Dodgeball Game
 
-This is a homework assignment at University of Wisconsin-Milwaukee.
+This is a simple game to test out tools and DSA concepts learned in school
 
-## Comments (optional)
+## Comments
